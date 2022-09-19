@@ -122,5 +122,12 @@ header .navigation a:hover {
   margin-right: 20px;
 }
 
+#menu-icon {
+  font-size: 2rem;
+}
+
 @media (max-width: 960px) {
+  header {
+    margin-bottom: 2rem;
+  }
 }
